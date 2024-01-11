@@ -16,4 +16,9 @@
 14.	Update the Jenkins file and using env variable provide the username and password. 
 15.	Update the Jenkins file and start the build.
 16.	After the build is completed the application is deployed in a containerized form.
+17.	# Jenkins Build Image
+![Screenshot 2024-01-11 123257](https://github.com/Pulkit1903/DevOps-01/assets/97504521/8374803c-a598-403d-a841-d30686289113)
+
+# Application ScreenShot
+![Screenshot 2024-01-11 123420](https://github.com/Pulkit1903/DevOps-01/assets/97504521/7ab9e629-9834-4137-8bc4-e772041f6449)
 
