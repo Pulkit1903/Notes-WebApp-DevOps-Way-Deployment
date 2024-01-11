@@ -1,7 +1,7 @@
 # DevOps-01
 # STEPS TO FOLLOW
 1.	CREATE AN EC2 INSTANCE ON AWS WITH KEY PAIR.
-2.	CHANGE THE PERMISSION OF KEYPAIR ((80) How we change PEM file permissions in Windows 10 - YouTube_
+2.	CHANGE THE PERMISSION OF KEYPAIR (https://youtu.be/6phF7bxY2Eo)
 3.	CONNECT USING THE EXAMPLE LINK GIVEN
 4.	CLONE THE REPO INTO THE SERVER.
 5.	INSTALL DOCKER and give permission (**sudo usermod -aG docker $USER**)
